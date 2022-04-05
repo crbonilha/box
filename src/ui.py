@@ -104,7 +104,7 @@ def usage():
     print '\t   compile all solutions'
     print '\t%s check-input <name>' % basename
     print '\t   checks input files'
-    print '\t%s check-input <name>' % basename
+    print '\t%s check-output <name>' % basename
     print '\t   checks output files'
     print '\t%s check-solutions <name>' % basename
     print '\t   checks all solutions'

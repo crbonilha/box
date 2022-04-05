@@ -35,6 +35,10 @@ HINTS = {
     'pdflatex':
     'The pdflatex application is needed to generate the problem statements. '
     'Make sure it can be found in your $PATH (e.g. `which pdflatex`).',
+
+    'bad-memory-limit':
+    'Failed to limit amount of memory used by some of the processes.',
+
 }
 useful_hints = []
 
